@@ -44,4 +44,4 @@ images/
 
 ## Author
 
-Rajan Pandit Kumhar
+Sahil Kumar Kanu 
